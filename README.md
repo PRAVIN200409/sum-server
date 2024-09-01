@@ -40,3 +40,21 @@ cd ../sum-server
 npm run dev
 # The frontend should now be accessible, typically on http://localhost:5173
 ```
+
+## ⚙️ Configuration
+
+- **Vite Configuration (`vite.config.js`)**: Configure the development server and build process for the frontend.
+- **Tailwind CSS Configuration (`tailwind.config.js`)**: Customize the Tailwind CSS settings.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork** the repository.
+2. **Create** a new branch (`git checkout -b feature-branch`).
+3. **Make** your changes.
+4. **Submit** a pull request.
+
+## 📝 License
+
+This project is licensed under the MIT License.
