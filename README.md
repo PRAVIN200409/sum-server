@@ -14,13 +14,13 @@ The Addition Server project is a web-based application that is likely designed t
 Ensure you have the following installed on your system:
 
 - [Node.js](https://nodejs.org/) (version 14 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ### 🔧 Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/addition-server.git
+git clone https://github.com/PRAVIN200409/addition-server.git
 cd addition-server
 
 # Install dependencies for the backend
@@ -30,6 +30,7 @@ npm install
 # Install dependencies for the frontend
 cd ../sum-server
 npm install
+
 # Running the Backend
 cd backend
 node server.js
